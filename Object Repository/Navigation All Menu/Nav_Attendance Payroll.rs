@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Nav_Attendance Payroll</name>
+   <tag></tag>
+   <elementGuidId>dfc13a41-0a70-4277-bc3d-7478c12f9d51</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='b0p0o10i0i0r1']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b0p0o10i0i0r1 > div.fm-button-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>05b0faf2-8686-4369-ba1c-cd7dc992e544</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fm-button-container</value>
+      <webElementGuid>52305245-5232-43a1-acdd-c74db9c63082</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Attendance &amp; Payroll</value>
+      <webElementGuid>6eb0436e-cfa9-4ef4-8b3c-330b6e263c24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b0p0o10i0i0r1&quot;)/div[@class=&quot;fm-button-container&quot;]</value>
+      <webElementGuid>a8d4eea6-9c18-40a1-9c89-fe379f088a4a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='b0p0o10i0i0r1']/div</value>
+      <webElementGuid>1a35b89f-19f4-422d-a95d-7e27eb27af1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recruitment'])[1]/following::div[3]</value>
+      <webElementGuid>b89542c4-0837-4e89-a722-3eaa23af01d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employees'])[1]/following::div[7]</value>
+      <webElementGuid>706c73ea-ca64-4ee6-aed7-4b54dadc7d07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training'])[1]/preceding::div[3]</value>
+      <webElementGuid>b026395e-0c35-4a9d-968e-8b6a26421759</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/button/div</value>
+      <webElementGuid>37136b07-d933-41bc-a253-a98149effd6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Attendance &amp; Payroll' or . = 'Attendance &amp; Payroll')]</value>
+      <webElementGuid>6328aa9e-693e-4a18-bca2-93b752eb5f79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

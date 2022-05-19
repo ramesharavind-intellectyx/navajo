@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Nav_Recruitment</name>
+   <tag></tag>
+   <elementGuidId>ee75c326-b4dc-41a1-a4e4-5bdc6a06da74</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='b0p0o9i0i0r1']/div/span/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.fm-button-bar-segment-label.fm-button-bar-segment-label-9 > div.fm-text-paragraph > span.fm-text-character</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fd4d2ce9-bf5f-433d-a6c7-45d5d287f7c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fm-text-character</value>
+      <webElementGuid>1950b613-c61f-44e2-8786-4c921e39cd10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Recruitment</value>
+      <webElementGuid>e84b399c-9f6c-4c05-941b-8d78ffa090b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b0p0o9i0i0r1&quot;)/div[@class=&quot;fm-button-container&quot;]/span[@class=&quot;v-nativebutton-caption&quot;]/div[@class=&quot;fm-button-bar-segment-label fm-button-bar-segment-label-9&quot;]/div[@class=&quot;fm-text-paragraph&quot;]/span[@class=&quot;fm-text-character&quot;]</value>
+      <webElementGuid>ad9573f3-708f-486c-901c-3aae3fec7394</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='b0p0o9i0i0r1']/div/span/div/div/span</value>
+      <webElementGuid>6adab14a-5327-472e-b1f2-dc366e8506e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employees'])[1]/following::span[2]</value>
+      <webElementGuid>bfaa6ced-6dd3-4ada-9c2d-cb506c18bdf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::span[4]</value>
+      <webElementGuid>dabd0370-d27d-4319-8dc4-31b426ccf316</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attendance &amp; Payroll'])[1]/preceding::span[1]</value>
+      <webElementGuid>c519539e-ed4b-45fc-8220-df01058eea3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training'])[1]/preceding::span[3]</value>
+      <webElementGuid>01f1a3b7-1ebb-4c78-b8ed-3582598e5b1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Recruitment']/parent::*</value>
+      <webElementGuid>871e4d10-bce9-4ebe-b3e5-ba68b340b0c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button/div/span/div/div/span</value>
+      <webElementGuid>9831f790-e49e-4ef2-97a5-57b0316f5eab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Recruitment' or . = 'Recruitment')]</value>
+      <webElementGuid>ac818392-251b-4ceb-a2e1-5edbd2f241c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

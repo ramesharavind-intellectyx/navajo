@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Nav_Settings</name>
+   <tag></tag>
+   <elementGuidId>78359d85-cd78-4436-8177-ffde17c6c927</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='b0p0o200i0i0r1']/div/span/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.fm-button-bar-segment-label.fm-button-bar-segment-label-200 > div.fm-text-paragraph > span.fm-text-character</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7479b84a-ad4c-4ebe-8a35-1e4326d1edbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fm-text-character</value>
+      <webElementGuid>cdd29e55-e9f1-4fb0-acf1-1dbe74f15efe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Settings</value>
+      <webElementGuid>49f5ae7a-af13-4b3a-9fd7-1178586fae14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b0p0o200i0i0r1&quot;)/div[@class=&quot;fm-button-container&quot;]/span[@class=&quot;v-nativebutton-caption&quot;]/div[@class=&quot;fm-button-bar-segment-label fm-button-bar-segment-label-200&quot;]/div[@class=&quot;fm-text-paragraph&quot;]/span[@class=&quot;fm-text-character&quot;]</value>
+      <webElementGuid>783709a9-ab85-4ce5-b4fc-7f0847bfc49d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='b0p0o200i0i0r1']/div/span/div/div/span</value>
+      <webElementGuid>ed82d3e1-295d-467d-afba-da4ba13b7efe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grievance'])[1]/following::span[2]</value>
+      <webElementGuid>3490b2c7-6d9f-4de4-a85e-162980b2b07a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Appraisals'])[1]/following::span[4]</value>
+      <webElementGuid>bf1f72b5-88da-4d1b-9167-cf7a81217259</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created Date'])[1]/preceding::span[1]</value>
+      <webElementGuid>e43a470b-a062-41f3-8dc8-f219b4fc419c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee Name'])[1]/preceding::span[2]</value>
+      <webElementGuid>43caae06-6450-4c43-879c-358f1771d3c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Settings']/parent::*</value>
+      <webElementGuid>3a948c30-dab8-4b1f-9fc6-c0f1cd0f97a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/button/div/span/div/div/span</value>
+      <webElementGuid>543cee62-8975-4f42-af20-33c18b4fe273</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Settings' or . = 'Settings')]</value>
+      <webElementGuid>fbd9701c-05d5-415d-8b50-ab734bbe64ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
